@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">QuizzApp</string>
+    <string name="texto_pregunta">Aquí va la pregunta:</string>
+    <string name="true_button">Verdadero</string>
+    <string name="false_button">Falso</string>
+    <string name="correct_toast">Correct!</string>>
+    <string name="incorrect_toast">Incorrect!</string>
+    <string name="next_button">Siguiente</string>
+    <string name="pregunta_art35" translatable="false">¿Si repruebas una materia caes en artículo 35?</string>
+    <string name="pregunta_extraordinario" translatable="false">¿Todas las materias tienen extraordinario?</string>
+    <string name="pregunta_licencia" translatable="false">¿Puedo solicitar una licencia en cualquier momento?</string>
+    <string name="warning_text">¿Estas seguro que quieres hacer esto?</string>
+    <string name="show_answer_button">Mostrar Respuesta</string>
+    <string name="cheat_button">¡Trampa!</string>
+    <string name="judgment_toast">Hacer trampa esta mal.</string>
+</resources>

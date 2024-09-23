@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">QuizzApp</string>
+    <string name="texto_pregunta">Contesta esto:</string>
+    <string name="true_button">Cierto</string>
+    <string name="false_button">Mentira</string>
+    <string name="correct_toast">¡Correcto!</string>
+    <string name="incorrect_toast">¡Incorrecto!</string>
+    <string name="next_button">Continuar</string>
+    <string name="warning_text">Estas seguro que quieres hacer esto?</string>
+    <string name="show_answer_button">Mostrar Respuesta.</string>
+    <string name="cheat_button">Trampa!</string>
+    <string name="judgment_toast">Hacer trampa esta mal</string>
+</resources>
